@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p>
+<p data-importer="text" align="left">My name is Naufal faaza yudhibtya and I'm a technology information, from Politeknik Negeri Madiun </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning technology information<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
