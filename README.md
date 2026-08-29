@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning technology information<br>🎯 Goals: ...<br>🎲 Fun fact: <Always listening to the same song over and over again until getting bored of it p>
+<p data-importer="text" align="left">✨ Creating bugs since 2026 <br>📚 I'm currently learning technology information<br>🎯 Goals: ...<br>🎲 Fun fact: <Always listening to the same song over and over again until getting bored of it p>
 
 ###
 
