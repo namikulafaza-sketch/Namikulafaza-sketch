@@ -11,7 +11,7 @@
 ###
 
 <p data-importer="text" align="left">✨ Creating bugs since 2026 <br>📚 I'm currently learning technology information<br>🎯 Goals: Career Prospects, Practical Skills, Digital Entrepreneur br>🎲 
-  Fun fact: <dont never give up>
+  Fun fact: dont never give up
 
 ###
 
